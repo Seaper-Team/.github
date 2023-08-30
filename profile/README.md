@@ -17,7 +17,6 @@
 - [Seaper 后端](https://github.com/Seaper-Team/Seaper)
 - [Seaper 前端](https://github.com/Seaper-Team/Seaper-Front)
 - [Seaper 节点](https://github.com/Seaper-Team/Seaper-Node)
-- [Seaper API](https://github.com/Seaper-Team/Seaper-API)
 - [Seaper 文档](https://github.com/Seaper-Team/Seaper-Docs)
 - [Seaper 面板部署](https://github.com/Seaper-Team/Seaper-Pro-Panel)
 - [Seaper 节点部署](https://github.com/Seaper-Team/Seaper-Pro-Node)
