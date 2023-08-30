@@ -19,6 +19,9 @@
 - [Seaper 节点](https://github.com/Seaper-Team/Seaper-Node)
 - [Seaper API](https://github.com/Seaper-Team/Seaper-API)
 - [Seaper 文档](https://github.com/Seaper-Team/Seaper-Docs)
+- [Seaper 面板部署](https://github.com/Seaper-Team/Seaper-Pro-Panel)
+- [Seaper 节点部署](https://github.com/Seaper-Team/Seaper-Pro-Node)
+- [Seaper 一键安装](https://github.com/Seaper-Team/Seaper-Script)
 
 ## 开发团队
 - Xiaoyi311 —— 程序主编
